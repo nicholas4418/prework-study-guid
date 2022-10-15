@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - The motivation behind this project was to create a web application that could store notes for the Georgia Tech Coding Boot Camp, so that they me easily accesible for boot camp students.
 - I built this project as a means to practice and cover the "bare bones" basics of some of the tools used in web development (HTML, CSS, Git, Javascript).
 - The problem this project solves is that, as a boot camp student, I and others needed an easy and structured way to review prework boot camp notes.
